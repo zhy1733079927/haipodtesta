@@ -1,0 +1,4 @@
+platform :ios, '8.0'
+target 'CocoaPodsTest' do
+    pod 'AliRTCSdk', '1.17.44'
+end          

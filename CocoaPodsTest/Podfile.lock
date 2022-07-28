@@ -1,0 +1,18 @@
+PODS:
+  - AliRTCSdk (1.17.44):
+    - AliRTCSdk/AliRTCSdk (= 1.17.44)
+  - AliRTCSdk/AliRTCSdk (1.17.44)
+
+DEPENDENCIES:
+  - AliRTCSdk (= 1.17.44)
+
+SPEC REPOS:
+  trunk:
+    - AliRTCSdk
+
+SPEC CHECKSUMS:
+  AliRTCSdk: dea07dd872fa229fd125399a2c02180e45c1a109
+
+PODFILE CHECKSUM: ffe3794802b8ac14ced79d63550198a2cd1aafc6
+
+COCOAPODS: 1.11.3
